@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Tusharbhosalehub
-- 👀 I’m interested in ... Cyber Security,Web and App development.
-- 🌱 I’m currently learning ... Web Dev
+- 👋 Hi, I’m TUUSHAR BHOSALE
+- 👀 I’m interested in ... Cyber Security,Machine Learning.
+- 🌱 I’m currently learning ... Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...tusharbhosale0777@gmail.com
 

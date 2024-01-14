@@ -1,4 +1,4 @@
-- 👋 Hi, I’m TUUSHAR BHOSALE
+- 👋 Hi, I’m TUSHAR BHOSALE
 - 👀 I’m interested in ... Cyber Security,Machine Learning.
 - 🌱 I’m currently learning ... Web Development
 - 💞️ I’m looking to collaborate on ...

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m TUSHAR BHOSALE
 - 👀 I’m interested in ... Cyber Security,Machine Learning.
 - 🌱 I’m currently learning ... Web Development
-- 💞️ I’m looking to collaborate on ... Machine And Web Project
+- 💞️ I’m looking to collaborate on ... AI And Web Project
 - 📫 How to reach me ... tusharbhosale0777@gmail.com
 
 <!---

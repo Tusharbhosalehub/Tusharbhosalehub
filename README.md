@@ -23,7 +23,7 @@
 
 ### Frameworks & Libraries
 - **React** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-- **Spring Boot** ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)--->
+- **Spring Boot** ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)---->
 
 ## 🚀 Projects
 

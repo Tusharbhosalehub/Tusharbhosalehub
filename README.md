@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on **Deep Learning Projects**.
 - 📫 How to reach me: [tusharbhosale0777@gmail.com](mailto:tusharbhosale0777@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tushar-bhosale-477693242/)
 
-## 🔧 Languages & Tools
+<!---## 🔧 Languages & Tools
 
 ### Languages                                                                                                                                                                   
 - **Java** ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -23,7 +23,7 @@
 
 ### Frameworks & Libraries
 - **React** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-- **Spring Boot** ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+- **Spring Boot** ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)--->
 
 ## 🚀 Projects
 

@@ -3,7 +3,8 @@
 - 👀 I’m interested in **Cyber Security** and **Machine Learning**.
 - 🌱 I’m currently diving deep into **Deep Learning**.
 - 💞️ I’m looking to collaborate on **Deep Learning Projects**.
-- 📫 How to reach me: [tusharbhosale0777@gmail.com](mailto:tusharbhosale0777@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tushar-bhosale-477693242/)
+- 📫 How to reach me: [tusharbhosale0777@gmail.com](mailto:tusharbhosale0777@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tushar-bhosale-477693242/).
+- 
 
 <!---## 🔧 Languages & Tools
 

@@ -32,7 +32,7 @@
 
 ## ✨ Fun Fact
 
-I love to explore new technologies and occasionally dabble in creative projects!!
+I love to explore new technologies and occasionally dabble in creative projects!!!
 
 
 <!---

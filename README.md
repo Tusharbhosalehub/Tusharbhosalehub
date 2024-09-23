@@ -32,7 +32,8 @@
 
 ## ✨ Fun Fact
 
-I love to explore new technologies and occasionally dabble in creative projects!
+I love to explore new technologies and occasionally dabble in creative projects!!
+
 
 <!---
 Tusharbhosalehub/Tusharbhosalehub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

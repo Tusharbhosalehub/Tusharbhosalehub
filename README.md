@@ -1,6 +1,6 @@
 # 👋 Hi, I’m TUSHAR BHOSALE
 
-- 👀 I’m interested in **DEVELOPMET** and **Machine Learning**.
+- 👀 I’m interested in **DEVELOPMENT** and **Machine Learning**.
 - 🌱 I’m currently diving deep into **Deep Learning**.
 - 💞️ I’m looking to collaborate on **Deep Learning Projects**.
 - 📫 How to reach me: [tusharbhosale0777@gmail.com](mailto:tusharbhosale0777@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tushar-bhosale-477693242/).

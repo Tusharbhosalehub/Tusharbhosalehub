@@ -6,7 +6,7 @@
 - 📫 How to reach me: [tusharbhosale0777@gmail.com](mailto:tusharbhosale0777@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tushar-bhosale-477693242/).
 - 
 
-<!---## 🔧 Languages & Tools
+<!---## 🔧 Languages & Tool
 
 ### Languages                                                                                                                                                                   
 - **Java** ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)

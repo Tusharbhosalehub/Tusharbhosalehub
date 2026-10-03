@@ -28,7 +28,7 @@
 
 ## 🚀 Projects
 Worked and Working on :
--**Oceana Breeze**
+- **Oceana Breeze**
 - AES 
 - Deep Learning-Based Image Captioning with Voice Assistance for Visually Impaired Individuals
 

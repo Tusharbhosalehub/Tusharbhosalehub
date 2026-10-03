@@ -27,8 +27,16 @@
 - **Spring Boot** ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)--->
 
 ## 🚀 Projects
+Worked and Working on :
 -**Oceana Breeze**
-- ** Completed ** - Brain Tumor Detection Using Convolutional Neural Networks (CNN) for detecting brain tumors from medical images.
+-AES 
+-
+
+- Completed :
+1. Brain Tumor Detection Using Convolutional Neural Networks (CNN) for detecting brain tumors from medical images.
+2. Brain Health Chatbot
+3. A Merkle Tree–Based File Integrity Monitoring System with Block-Level Change Detection and GUI Visualization
+   
 
 ## ✨ Fun Fact
 

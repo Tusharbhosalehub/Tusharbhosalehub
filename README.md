@@ -29,8 +29,9 @@
 ## 🚀 Projects
 Worked and Working on :
 -**Oceana Breeze**
--AES 
--
+- AES 
+- Deep Learning-Based Image Captioning with Voice Assistance for Visually Impaired Individuals
+
 
 - Completed :
 1. Brain Tumor Detection Using Convolutional Neural Networks (CNN) for detecting brain tumors from medical images.
